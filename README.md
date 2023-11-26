@@ -6,4 +6,4 @@ It would be a stretch to say that I have a lot of experience with coding, Genera
 ### Github Projects
 Currently None.
 ### Contact
-If you'd like to contact me please add l.to.#0000 on discord. (Display name thehauntingstar)
+If you'd like to contact me please add l.to.#0000 on discord or thehauntingstar#4105 on revolt.
