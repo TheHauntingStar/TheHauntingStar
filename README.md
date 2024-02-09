@@ -1,8 +1,7 @@
 ### TheHauntingStar
-Welcome to my sorry excuse for a profile! My name is TheHauntingStar and I create Open Source Tools In python (Generally). I'm from Norway and essentially a privacy advocate.
-
+Hello, my name is TheHauntingStar, I make open-source tools in python and I'm from Norway.
 ### Skills
-💀 
+Proficient in python, familiar with discord.py.
 ### Github Projects
 Currently None.
 ### Contact
