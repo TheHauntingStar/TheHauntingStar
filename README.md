@@ -1,7 +1,7 @@
 ### TheHauntingStar
 Hello, my name is TheHauntingStar, I make open-source tools in python and I'm from Norway.
 ### Skills
-Familiar with discord.py.
+💀 
 ### Github Projects
 Currently None.
 ### Contact
